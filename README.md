@@ -14,7 +14,7 @@
 
 ## 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2k24csaiml1a2411963-cloud&layout=compact&theme=tokyonight&hide_border=true" width="450" />
+  <b>C++,PYTHON,HTML,CSS,JAVA</b>
 </p>
 
 ---
