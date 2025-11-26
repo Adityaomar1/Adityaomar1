@@ -34,7 +34,9 @@
 </p>
 
 ---
-
+<p align="center">
+  <b>Linkedin: http://www.linkedin.com/in/aditya-omar</b>
+</p>
 
 
 ---
