@@ -29,7 +29,7 @@
 ## 🔗 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/aditya-omar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="mailto:2k24.csaiml1a2411963@gmail.com"><img src="https://www.google.com/imgres?q=g%20mail%20logo%20for%20github&imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F05%2F47%2F13%2F84%2F360_F_547138492_PWwxuV2V6iZtb7zaGT6ib4PH4nAlMYvI.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dgmail%2Bicon&docid=tjOG18U6Anb2qM&tbnid=LN707JaByYCGMM&vet=12ahUKEwiwgPKwsOOTAxWiTmwGHT4gEboQnPAOegQIGBAB..i&w=368&h=360&hcb=2&ved=2ahUKEwiwgPKwsOOTAxWiTmwGHT4gEboQnPAOegQIGBAB"/></a>
+  <a href="mailto:2k24.csaiml1a2411963@gmail.com"><img src=""C:\Users\HP\Desktop\68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465.svg"/><a>
 </p>
 
 
