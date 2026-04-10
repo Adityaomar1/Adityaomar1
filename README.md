@@ -28,7 +28,7 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>linkedin.com/in/aditya-omar</a>
+  <a href="linkedin.com/in/aditya-omar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Hackerrank-00EA64?logo=hackerrank&logoColor=white&style=for-the-badge"/></a>
 </p>
