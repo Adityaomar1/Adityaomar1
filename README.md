@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋! My name is Aditya Omar</h1>
-<h3 align="center">B.Tech 2nd Year | AI • ML • Full Stack Developer</h3>
+<h3 align="center">B.Tech 3rd Year | AI • ML • Full Stack Developer</h3>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 B.Tech 2nd Year (CSE – AI & ML)  
-- 💻 Comfortable with **C++**, **Python**, **HTML**, **CSS**, **JavaScript**  
+- 🎓 B.Tech 3rd Year (CSE – AI & ML)  
+- 💻 Comfortable with **C++**, **Python**, **HTML**, **CSS**, **JavaScript** **React** 
 - 🤖 Learning Machine Learning and building small ML projects  
 - 🌱 Exploring Full Stack Development  
-- 🚀 Interested in AI, ML, Web Dev & Real-world applications  
+- 🚀 Interested in AI, ML, Gen AI Web Dev & Real-world applications  
 
 ---
 
