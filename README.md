@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! My name is Aditya Omar</h1>
-<h3 align="center">B.Tech 3rd Year | AI • ML • Full Stack Developer</h3>
+<h3 align="center">B.Tech 3rd Year | AI • ML • Frontend Developer</h3>
 
 ---
 
