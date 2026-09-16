@@ -41,12 +41,6 @@
 </p>
 
 <br/>
-
-## 📈 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## 🔗 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/aditya-omar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
