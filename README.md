@@ -6,11 +6,15 @@
   <img src="https://img.shields.io/github/followers/Adityaomar1?label=Follow&style=social" alt="followers" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+3rd+Year+Student;AI+%26+ML+Enthusiast;Frontend+Developer;Learning+Full+Stack+Dev" alt="Typing SVG" />
+</p>
+
 <br/>
 
 ## 🧑‍💻 About Me
 - 🎓 B.Tech 3rd Year (CSE – AI & ML)  
-- 💻 Comfortable with *C++, **Python, **HTML, **CSS, **JavaScript* *React* 
+- 💻 Comfortable with **C++**, **Python**, **HTML**, **CSS**, **JavaScript**, **React**
 - 🤖 Learning Machine Learning and building small ML projects  
 - 🌱 Exploring Full Stack Development  
 - 🚀 Interested in AI, ML, Gen AI Web Dev & Real-world applications  
@@ -19,7 +23,7 @@
 
 ## 📊 Most Used Languages
 <p align="center">
-  <b>C++,PYTHON,HTML,CSS,JAVASCRIPT</b>
+  <b>C++, Python, HTML, CSS, JavaScript</b>
 </p>
 
 ---
@@ -29,8 +33,14 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript" height="50" />
 </p>
 
+---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adityaomar1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaomar1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityaomar1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -40,15 +50,27 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adityaomar1/Adityaomar1/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 📈 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 🔗 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/aditya-omar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-<a href="mailto:2k24.csaiml1a2411963@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Email Badge">
+  <a href="mailto:2k24.csaiml1a2411963@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
-
 </p>
-
 
 <p align="center"><i>"Learning every day, building step by step."</i></p>
