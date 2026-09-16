@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aditya%20Omar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20Frontend%20Developer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aditya%20Omar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20Frontend%20Developer&descAlignY=55&descSize=18" />
 </p>
 
 <h1 align="center">Hi 👋! My name is Aditya Omar</h1>
