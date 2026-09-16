@@ -11,7 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%3E+whoami;Aditya+Omar+%E2%80%94+AI+%26+ML+Developer;%3E+status;Building+the+future%2C+one+commit+at+a+time." alt="Terminal Typing" />
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%3E+whoami;Aditya+Omar+%E2%80%94+AI+%26+ML+Developer;%3E+status;Turning+coffee+into+code+%E2%98%95" alt="Terminal Typing" />
+</p>
 </p>
 
 <br/>
