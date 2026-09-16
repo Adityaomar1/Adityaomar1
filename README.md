@@ -2,11 +2,6 @@
   <img src="https://raw.githubusercontent.com/Adityaomar1/Adityaomar1/main/matrix-header.svg" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adityaomar1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Adityaomar1?label=Follow&style=social" alt="followers" />
-</p>
-
 <br/>
 
 ## 🧑‍💻 About Me
@@ -49,3 +44,6 @@
 
 <p align="center"><i>"Learning every day, building step by step."</i></p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adityaomar1/Adityaomar1/main/matrix-footer.svg" width="100%" />
+</p>
