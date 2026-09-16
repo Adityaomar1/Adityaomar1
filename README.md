@@ -36,34 +36,16 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adityaomar1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaomar1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityaomar1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br/>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Adityaomar1/Adityaomar1/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
----
 
 ## 🔗 Connect With Me
 <p align="center">
