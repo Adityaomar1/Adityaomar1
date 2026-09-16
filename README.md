@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aditya%20Omar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20Frontend%20Developer&descAlignY=55&descSize=18" />
+</p>
+
 <h1 align="center">Hi 👋! My name is Aditya Omar</h1>
 <h3 align="center">B.Tech 3rd Year | AI • ML • Frontend Developer</h3>
 
@@ -7,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+3rd+Year+Student;AI+%26+ML+Enthusiast;Frontend+Developer;Learning+Full+Stack+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%3E+whoami;Aditya+Omar+%E2%80%94+AI+%26+ML+Developer;%3E+status;Building+the+future%2C+one+commit+at+a+time." alt="Terminal Typing" />
 </p>
 
 <br/>
@@ -41,6 +45,7 @@
 </p>
 
 <br/>
+
 ## 🔗 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/aditya-omar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
@@ -50,3 +55,7 @@
 </p>
 
 <p align="center"><i>"Learning every day, building step by step."</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+</p>
