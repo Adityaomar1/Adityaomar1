@@ -6,11 +6,6 @@
 <h3 align="center">B.Tech 3rd Year | AI • ML • Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adityaomar1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Adityaomar1?label=Follow&style=social" alt="followers" />
-</p>
-
-<p align="center">
  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%3E+whoami;Aditya+Omar+%E2%80%94+AI+%26+ML+Developer;%3E+status;Turning+coffee+into+code+%E2%98%95" alt="Terminal Typing" />
 </p>
