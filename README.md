@@ -7,7 +7,6 @@
 </p>
 
 <br/>
----
 
 ## 🧑‍💻 About Me
 - 🎓 B.Tech 3rd Year (CSE – AI & ML)  
@@ -32,11 +31,6 @@
 
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adityaomar1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaomar1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityaomar1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
