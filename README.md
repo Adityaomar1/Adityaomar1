@@ -15,9 +15,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%3E+whoami;Aditya+Omar+%E2%80%94+AI+%26+ML+Developer;%3E+status;Turning+coffee+into+code+%E2%98%95" alt="Terminal Typing" />
 </p>
 </p>
-
 <br/>
-
 ## 🧑‍💻 About Me
 - 🎓 B.Tech 3rd Year (CSE – AI & ML)  
 - 💻 Comfortable with **C++**, **Python**, **HTML**, **CSS**, **JavaScript**, **React**
