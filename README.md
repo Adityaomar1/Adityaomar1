@@ -16,6 +16,7 @@
 </p>
 </p>
 <br/>
+
 ## 🧑‍💻 About Me
 - 🎓 B.Tech 3rd Year (CSE – AI & ML)  
 - 💻 Comfortable with **C++**, **Python**, **HTML**, **CSS**, **JavaScript**, **React**
