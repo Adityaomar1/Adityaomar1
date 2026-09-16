@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adityaomar1/Adityaomar1/main/assets/matrix-header.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Adityaomar1/Adityaomar1/main/matrix-header.svg" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋! My name is Aditya Omar</h1>
