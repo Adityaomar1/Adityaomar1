@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adityaomar1/Adityaomar1/main/matrix-header.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Adityaomar1/Adityaomar1/main/matrix-header-blue.svg" width="100%" />
 </p>
 
 <br/>
@@ -42,5 +42,5 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adityaomar1/Adityaomar1/main/matrix-footer.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Adityaomar1/Adityaomar1/main/matrix-footer-blue.svg" width="100%" />
 </p>
